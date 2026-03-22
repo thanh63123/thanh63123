@@ -19,7 +19,7 @@ Open to internships and collaborative projects. Let's connect!
 
 * <img align="center" src="./images/Gmail_icon.png" title = "Gmail" alt="" height="20" /> [thanh.hocong@hcmut.edu.vn](thanh.hocong@hcmut.edu.vn)
 
-* * <img align="center" src="./images/Gmail_icon.png" title = "Gmail" alt="" height="20" /> [cgthanh63@gmail.com](cgthanh63@gmail.com)
+* <img align="center" src="./images/Gmail_icon.png" title = "Gmail" alt="" height="20" /> [cgthanh63@gmail.com](cgthanh63@gmail.com) (private)
 
 * <img align="center" src="./images/2021_Facebook_icon.png" title = "Facebook" alt="" height="20" /> [facebook.com/cgthanh.63](https://www.facebook.com/cgthanh.63).
 
